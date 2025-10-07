@@ -14,7 +14,7 @@ El **cazón** es una especie de tiburón de tamaño pequeño a mediano, muy valo
 
 El cazón ayuda a mantener el equilibrio del ecosistema marino al controlar las poblaciones de peces más pequeños.
 
-## 🔗 Enlace relacionado
+##  Enlace relacionado
 
 Descubre cómo los **cambios en las mareas** también afectan la vida marina:  
  [Cambios de las mareas](./mareas.md)
