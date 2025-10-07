@@ -2,7 +2,7 @@
 
 Las **mareas** son movimientos periódicos del agua del mar causados principalmente por la atracción gravitacional de la Luna y el Sol.
 
-![Mareas]([[https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Tidal_range.svg/800px-Tidal_range.svg.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.menorcanautic.com%2Fblog%2Fcorrientes-marinas-del-mediterraneo%2F&psig=AOvVaw1Tjk8V9UZojnILO3JGhIjV&ust=1759922538100000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCPDfkMP8kZADFQAAAAAdAAAAABAE](https://img.lavdg.com/sc/7bjQXJWnQqtjW4b0N84lkYwQl30=/480x/2024/09/18/00121726681862060778269/Foto/C_20240918_183815026.jpg)
+![Mareas](https://img.lavdg.com/sc/7bjQXJWnQqtjW4b0N84lkYwQl30=/480x/2024/09/18/00121726681862060778269/Foto/C_20240918_183815026.jpg)
 
 ##  ¿Qué influye en las mareas?
 
